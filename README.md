@@ -20,12 +20,12 @@ The evaluation methodology followed the ISBI 2015 Grand Challenge, which set the
 
 ### Results
 
-Results for the four models:
+Results for the four models Mean Radian Error (MRE):
 
-- SHG: Mean Relative Error (MRE) - 15.65%
-- SHG with Intermediate Supervision: MRE - 11.31%
-- U-Net: MRE - 6.75%
-- YOLOv3: MRE - 1.87%
+- SHG: 15.65
+- SHG with Intermediate Supervision: 11.31
+- U-Net: 6.75
+- YOLOv3: 1.87
 
 Landmark accuracy within specified distances (in millimeters):
 
